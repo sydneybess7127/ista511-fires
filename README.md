@@ -1,0 +1,1 @@
+This is the final project for INFO-511 Foundations of Data Science class. I chose to do my topic on U.S. Wildfires and chose the visualization path, creating a multitude of graphs to answer the question: Have fires changed over the years and how?
